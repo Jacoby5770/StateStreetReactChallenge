@@ -1,0 +1,1 @@
+export const accountConfig = ["Savings", "Checking", "Auto Loan", "Credit Card", "Investment", "Personal Loan", "Money Market", "Home Loan"]

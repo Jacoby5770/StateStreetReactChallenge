@@ -1,0 +1,1 @@
+export const transactionConfig = ["Deposit", "Withdrawal", "Invoice", "Payment"]
